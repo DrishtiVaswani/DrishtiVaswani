@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Drishti Vaswani</h1>
-<h3 align="center">A developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
