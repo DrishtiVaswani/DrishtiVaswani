@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **drishtivaswani.dv@gmail.com**
 
-- I also write at <a href="https://medium.com/@drishtivaswani.dv">Medium</a>
+- 📝 I also write at <a href="https://medium.com/@drishtivaswani.dv">Medium</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
