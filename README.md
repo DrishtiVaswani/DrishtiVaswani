@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **drishtivaswani.dv@gmail.com**
 
+- I also write at <a href="https://medium.com/@drishtivaswani.dv">Medium</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/drishti-vaswani-ba8079229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drishti-vaswani-ba8079229" height="30" width="40" /></a>
